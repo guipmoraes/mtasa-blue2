@@ -13,7 +13,7 @@
     "ci": "npx tsc && node dist/index.js"
   },
   "dependencies": {
-    "@crowdin/crowdin-api-client": "^1.41.2",
+    "@crowdin/crowdin-api-client": "^1.51.1",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
